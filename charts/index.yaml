@@ -3,11 +3,11 @@ entries:
   helm-chart:
   - apiVersion: v2
     appVersion: 1.2.3
-    created: "2025-01-16T05:59:47.817302403Z"
+    created: "2025-01-16T06:00:46.084662032Z"
     digest: e44bf16cf3ec40d37d6c1a020f6bff4d1ffd3544924df5464ce527c20af38154
     home: https://kimjeongjun08.github.io/chart-practice/index.yaml
     name: helm-chart
     urls:
-    - helm-chart-1.2.3.tgz
+    - http://kimjeongjun08.github.io/chart-practice/helm-chart-1.2.3.tgz
     version: 1.2.3
-generated: "2025-01-16T05:59:47.816959622Z"
+generated: "2025-01-16T06:00:46.084282588Z"
