@@ -1,5 +1,5 @@
 project:
-  name:
+  name: world-helm
   port: 80
   target_port: 5001
 
